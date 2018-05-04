@@ -1,3 +1,5 @@
+# Reach me directly at alexcalaca @(at) gmail.com
+
 BEGIN {
   puts "BEGIN: Global variables "
 }
