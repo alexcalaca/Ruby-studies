@@ -4,3 +4,6 @@ puts "#***************Each***************#"
 array.each do |a|
   puts "Each : #{a}"
 end
+
+#Second sintax
+array.each { |a| puts a }
