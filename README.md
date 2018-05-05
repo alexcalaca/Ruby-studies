@@ -1,2 +1,2 @@
 ## Ruby-studies
-# Reach me directly at alexcalaca @(at) gmail.com
+# Reach me directly at alexcalaca @(at) gmail .(dot) com
