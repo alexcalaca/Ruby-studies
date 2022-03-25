@@ -3,7 +3,7 @@
 
 p "Items can be added at any position of an array"
 
-#Given an array of x  elements
+#Given an array of x  elementss
 array =[1, 2, 4, 6]
 
 # End
