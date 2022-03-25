@@ -1,9 +1,6 @@
-# Reach me directly at alexcalaca @(at) gmail .(dot) com
-#Adding items to arrays
-
 p "Items can be added at any position of an array"
 
-#Given an array of x  elementss
+#Given an array of x  elements
 array =[1, 2, 4, 6]
 
 # End
