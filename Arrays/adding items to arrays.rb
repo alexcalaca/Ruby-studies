@@ -7,6 +7,7 @@ array =[1, 2, 4, 6]
 # Use either push or <<
 array.push(8)
 array << 10
+array.push("my array item")
 
 # Beginning
 # Use Unshift
