@@ -1,5 +1,5 @@
-#A String object holds and manipulates an arbitrary sequence of bytes, typically representing characters. String objects may be created using String::new or as literals.
-
+#A String object holds and manipulates an arbitrary sequence of bytes, typically representing characters. 
+#String objects may be created using String::new or as literals.
 
 puts "Your name:  "
 name = gets.chomp
